@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/kubi-app/static/js/main.e700d230.js",
+    "index.html": "/kubi-app/index.html",
+    "main.e700d230.js.map": "/kubi-app/static/js/main.e700d230.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e700d230.js"
+  ]
+}
