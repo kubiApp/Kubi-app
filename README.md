@@ -101,7 +101,7 @@ kubi-app/
 
 ## 🌐 Demo Online
 
-Acesse a versão ao vivo em: **[https://kubiApp.github.io/kubi-app](https://kuniApp.github.io/kubi-app)**
+Acesse a versão ao vivo em: **[https://kubiApp.github.io/Kubi-app](https://kuniApp.github.io/Kubi-app)**
 
 Para publicar:
 ```bash
